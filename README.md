@@ -1,4 +1,4 @@
-# My V0 Project
+# My Movie Exploration Project
 
 ## Overview
 
