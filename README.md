@@ -12,7 +12,7 @@ To install and run this application locally, follow these steps:
 
    ```bash
    git clone <repository-url>
-   cd my-v0-project
+   cd orbittechindo
    ```
 
 2. **Install dependencies:**
